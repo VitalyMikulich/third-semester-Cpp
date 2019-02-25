@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+d:\виталя\c++\lp4\lp4\myform.cpp(143): error C2976: std::array: слишком мало аргументов шаблон
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\utility(512): note:  см. объявление "std::array"
+d:\виталя\c++\lp4\lp4\myform.cpp(143): error C3699: ^: это косвенное обращение невозможно использовать для типа "std::array"
+  d:\виталя\c++\lp4\lp4\myform.cpp(143): note: для продолжения работы компилятор заменил "^" на "*"
+d:\виталя\c++\lp4\lp4\myform.cpp(150): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\виталя\c++\lp2\lp2\source.cpp(192): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LP2.vcxproj -> D:\Виталя\C++\LP2\Debug\LP2.exe

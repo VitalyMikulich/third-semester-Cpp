@@ -1,0 +1,5 @@
+﻿  var11.cpp
+c:\users\user\downloads\var11.cpp(122): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\user\downloads\var11.cpp(246): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\downloads\var11.cpp(248): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB4.vcxproj -> D:\Виталя\C++\LB3\Debug\LB4.exe

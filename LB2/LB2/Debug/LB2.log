@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\виталя\c++\var11\main.cpp(208): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB2.vcxproj -> D:\Виталя\C++\LB2\Debug\LB2.exe

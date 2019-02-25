@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1446465126 source:c:\users\valbo\onedrive\2 курс\Программирование\3 СЕМЕСТР_ЛАБЫ\Лаб. #2\var11\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1446465160 c:\users\valbo\onedrive\2 курс\Программирование\3 СЕМЕСТР_ЛАБЫ\Лаб. #2\var11\include\matrix.h
+	<ostream>
+
+1446465151 source:c:\users\valbo\onedrive\2 курс\Программирование\3 СЕМЕСТР_ЛАБЫ\Лаб. #2\var11\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<math.h>
+	<cstdlib>
+
+1448526276 source:c:\users\valbo\onedrive\Учёба (Мехмат)\Программирование\3 СЕМЕСТР_ЛАБЫ\Лаб. #2\var11\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1448526163 c:\users\valbo\onedrive\Учёба (Мехмат)\Программирование\3 СЕМЕСТР_ЛАБЫ\Лаб. #2\var11\include\matrix.h
+	<ostream>
+
+1448526209 source:c:\users\valbo\onedrive\Учёба (Мехмат)\Программирование\3 СЕМЕСТР_ЛАБЫ\Лаб. #2\var11\src\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<math.h>
+	<cstdlib>
+

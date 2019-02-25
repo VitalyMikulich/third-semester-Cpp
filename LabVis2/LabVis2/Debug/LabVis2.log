@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\vlad proga\c++\labvis2\labvis2\myform.h(352): warning C4101: t: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabVis2.vcxproj -> C:\Vlad proga\C++\LabVis2\Debug\LabVis2.exe

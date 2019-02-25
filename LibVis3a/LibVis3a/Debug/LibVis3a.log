@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\vlad proga\c++\libvis3a\libvis3a\myform.h(92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\vlad proga\c++\libvis3a\libvis3a\myform.h(93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\vlad proga\c++\libvis3a\libvis3a\myform.h(94): warning C4101: y0: неиспользованная локальная переменная
+c:\vlad proga\c++\libvis3a\libvis3a\myform.h(94): warning C4101: x0: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LibVis3a.vcxproj -> C:\Vlad proga\C++\LibVis3a\Debug\LibVis3a.exe

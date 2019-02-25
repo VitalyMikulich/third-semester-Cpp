@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(185): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(187): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(235): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(243): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(251): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(217): warning C4101: j2: неиспользованная локальная переменная
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(217): warning C4101: j1: неиспользованная локальная переменная
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(217): warning C4101: i2: неиспользованная локальная переменная
+c:\vlad proga\c++\labvis3b\labvis3b\myform.h(217): warning C4101: i1: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabVis3b.vcxproj -> C:\Vlad proga\C++\LabVis3b\Debug\LabVis3b.exe

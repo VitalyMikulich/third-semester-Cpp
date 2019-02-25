@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\виталя\c++\1z\1z\source.cpp(62): warning C4715: Array::operator[]: значение возвращается не при всех путях выполнения
+  1z.vcxproj -> D:\Виталя\C++\1z\Debug\1z.exe
